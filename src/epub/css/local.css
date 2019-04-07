@@ -5,3 +5,26 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps
+}
+
+.card{
+	text-align: center;
+	font-style: italic;
+}
+
+.card > p{
+	display: inline-block;
+	padding: 1em 2em;
+	border: 1px solid;
+}
+
+.carb b{
+	font-style: normal;
+}
+
+.headline{
+	text-align: center;
+}
