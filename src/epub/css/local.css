@@ -6,7 +6,8 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-[epub|type~="z3998:recipient"]{
+[epub|type~="z3998:recipient"],
+.signature{
 	font-variant: small-caps
 }
 
