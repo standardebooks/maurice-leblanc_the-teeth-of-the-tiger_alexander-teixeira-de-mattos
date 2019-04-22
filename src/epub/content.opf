@@ -34,16 +34,16 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13058</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13058</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An series of murders connected to an enormous legacy leads to a battle against an unseen adversary.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The fortunes of Don Luis Perenna seem only set to increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can’t be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias Arsène Lupin) must fight to prove his innocence and discover the real murderer.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Teeth of the Tiger&lt;/i&gt; was published in this English translation in 1914, but wasn’t available in the original French until its serialization in &lt;i xml:lang="fr"&gt;Le Journal&lt;/i&gt; in 1920. In the timeline of the series, &lt;i&gt;The Teeth of the Tiger&lt;/i&gt; is set after the events of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"&gt;&lt;i&gt;813&lt;/i&gt;&lt;/a&gt;, and continues with the rebalancing of Lupin from a god-like genius to a fallible, albeit brilliant, man.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13058</dc:source>
 		<dc:source>https://archive.org/details/teethoftiger00lebliala</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Teeth_of_the_Tiger</meta>
