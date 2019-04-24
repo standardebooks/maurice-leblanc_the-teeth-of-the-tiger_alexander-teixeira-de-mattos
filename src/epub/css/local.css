@@ -26,6 +26,11 @@ span[epub|type~="subtitle"]{
 	font-style: normal;
 }
 
-.headline{
+#chapter-9 blockquote{
 	text-align: center;
+	font-variant: small-caps;
+}
+
+#chapter-9 blockquote p{
+	text-indent: 0;
 }
