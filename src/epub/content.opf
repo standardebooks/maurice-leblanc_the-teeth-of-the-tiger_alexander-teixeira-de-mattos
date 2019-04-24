@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-04-24T00:21:45Z</dc:date>
+		<meta property="dcterms:modified">2019-04-24T00:21:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,18 +34,19 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13058</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13058</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An series of murders connected to an enormous legacy leads to a battle against an unseen adversary.</dc:description>
+		<meta property="se:collection">Arsène Lupin</meta>
+		<dc:description id="description">A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The fortunes of Don Luis Perenna seem only set to increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can’t be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias Arsène Lupin) must fight to prove his innocence and discover the real murderer.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Teeth of the Tiger&lt;/i&gt; was published in this English translation in 1914, but wasn’t available in the original French until its serialization in &lt;i xml:lang="fr"&gt;Le Journal&lt;/i&gt; in 1920. In the timeline of the series, &lt;i&gt;The Teeth of the Tiger&lt;/i&gt; is set after the events of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"&gt;&lt;i&gt;813&lt;/i&gt;&lt;/a&gt;, and continues with the rebalancing of Lupin from a god-like genius to a fallible, albeit brilliant, man.&lt;/p&gt;
+			&lt;p&gt;The fortunes of Don Luis Perenna seem set to only increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can’t be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias Arsène Lupin) must fight to prove his innocence and discover the real murderer.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Teeth of the Tiger&lt;/i&gt; was published in this English translation in 1914, but wasn’t available in the original French until its serialization in &lt;i&gt;Le Journal&lt;/i&gt; in 1920. In the timeline of the series, &lt;i&gt;The Teeth of the Tiger&lt;/i&gt; is set after the events of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"&gt;&lt;i&gt;813&lt;/i&gt;&lt;/a&gt;, and continues with the rebalancing of Lupin from a god-like genius to a fallible, albeit brilliant, man.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13058</dc:source>
 		<dc:source>https://archive.org/details/teethoftiger00lebliala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">127799</meta>
+		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Teeth_of_the_Tiger</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-teeth-of-the-tiger_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
@@ -85,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
