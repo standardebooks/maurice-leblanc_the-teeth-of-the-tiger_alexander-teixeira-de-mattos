@@ -38,6 +38,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">7</meta>
 		<dc:description id="description">A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The fortunes of Don Luis Perenna seem set to only increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can’t be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt;) must fight to prove his innocence and discover the real murderer.&lt;/p&gt;
