@@ -7,14 +7,14 @@
 }
 
 .card{
-	text-align: center;
 	font-style: italic;
+	text-align: center;
 }
 
 .card > p{
+	border: 1px solid;
 	display: inline-block;
 	padding: 1em 2em;
-	border: 1px solid;
 }
 
 .card b{
@@ -22,8 +22,8 @@
 }
 
 #chapter-9 blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #chapter-9 blockquote p{
