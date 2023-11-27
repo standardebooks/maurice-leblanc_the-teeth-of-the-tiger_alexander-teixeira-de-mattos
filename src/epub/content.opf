@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13058</dc:source>
 		<dc:source>https://archive.org/details/teethoftiger00lebliala</dc:source>
-		<meta property="se:word-count">127796</meta>
+		<meta property="se:word-count">127799</meta>
 		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-teeth-of-the-tiger_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
