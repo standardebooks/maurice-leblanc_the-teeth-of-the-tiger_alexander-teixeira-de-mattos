@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-9.xhtml">
 		<ignore code="t-011">
+			<line>167</line>
 			<reason>Matched text is a headline and does not require ending punctuation.</reason>
 		</ignore>
 	</file>
